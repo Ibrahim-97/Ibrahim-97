@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Hassanin</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full-Stack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-97&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-97" /> </p>
 
